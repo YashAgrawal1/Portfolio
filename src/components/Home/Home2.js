@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/yashagrawal-21"
+                  href="https://github.com/YashAgrawal1"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
