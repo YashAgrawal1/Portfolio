@@ -109,6 +109,16 @@ function NavBar() {
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/capstone"
+                onClick={() => updateExpanded(false)}
+              >
+                <CgFileDocument style={{ marginBottom: "2px" }} /> Capstone
+              </Nav.Link>
+            </Nav.Item>
           </Nav>
         </Navbar.Collapse>
       </Container>
